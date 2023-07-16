@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Shopingcut.Utility
 {
-    internal class test
+    internal class test6
     {
     }
 }
